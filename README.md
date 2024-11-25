@@ -1,1 +1,1 @@
-# 3D-DCGAN
+# 3D-DCGAN (Shape generation and completion)
