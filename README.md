@@ -19,6 +19,7 @@ We use:
 
 # References
 [1] A. Jolicoeur-Martineau, The relativistic discriminator: a key element missing from standard GAN, Machine Learning, arXiv:1807.00734v3, 2018.
+
 [2] N. Andrialovanirina, L. Poloni, R. Lafont, E. Poisson Caillault, S. Couette, K. Mahé. 3D meshes dataset of sagittal otoliths from red mullet in the Mediterranean Sea, Sci Data
 11, 813, 2024.
 
