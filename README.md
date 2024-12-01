@@ -9,9 +9,9 @@ This code implements deep 3D Generative Adversarial Network (GAN)-based convolut
 ## Data
 We use:
 - Chairs and airplane from Shapenet dataset: https://github.com/yuchenrao/PatchComplete/tree/main?tab=readme-ov-file#download-processed-datasets.
-- Otolith from [2]
+- Otolith dataset from [2].
 ## Results
-![Completion_pourcentage_cd_metric](https://github.com/user-attachments/assets/942390e3-f412-4b3b-b864-defb24e9a64e)
+![Completion_pourcentage_cd_metric](https://github.com/user-attachments/assets/942390e3-f412-4b3b-b864-defb24e9a64e | width=100)
 ![Completion_pourcentage_EMD_metric](https://github.com/user-attachments/assets/8bb8d061-0e96-447f-90dd-facb4fb97133)
 ![Completion_pourcentage_hd_metric](https://github.com/user-attachments/assets/49b36ea1-d75a-47c4-b1d7-fa88b782ef3b)
 
