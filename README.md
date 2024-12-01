@@ -11,10 +11,9 @@ We use:
 - Chairs and airplane from Shapenet dataset: https://github.com/yuchenrao/PatchComplete/tree/main?tab=readme-ov-file#download-processed-datasets.
 - Otolith dataset from [2].
 ## Results
-<img src="https://github.com/yahyahamdi-lab/3D-DCGAN/blob/main/Completion_pourcentage_cd_metric.PNG" width=100 height=100 />
-
-![Completion_pourcentage_EMD_metric](https://github.com/user-attachments/assets/8bb8d061-0e96-447f-90dd-facb4fb97133)
-![Completion_pourcentage_hd_metric](https://github.com/user-attachments/assets/49b36ea1-d75a-47c4-b1d7-fa88b782ef3b)
+<img src="https://github.com/yahyahamdi-lab/3D-DCGAN/blob/main/Completion_pourcentage_cd_metric.PNG" width=250 height=250 />
+<img src="https://github.com/yahyahamdi-lab/3D-DCGAN/blob/main/Completion_pourcentage_hd_metric.PNG" width=250 height=250 />
+<img src="https://github.com/yahyahamdi-lab/3D-DCGAN/blob/main/Completion_pourcentage_EMD_metric.PNG" width=250 height=250 />
 
 # Tutorial
 ## Requirements
