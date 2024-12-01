@@ -12,10 +12,10 @@ We use:
 - Otolith dataset from [2].
 ## Results
 <p align="center">
-<img src="https://github.com/yahyahamdi-lab/3D-DCGAN/blob/main/Completion_pourcentage_cd_metric.PNG" width=450 height=450 /> </p>
-<img src="https://github.com/yahyahamdi-lab/3D-DCGAN/blob/main/Completion_pourcentage_hd_metric.PNG" width=350 height=350 />
-<img src="https://github.com/yahyahamdi-lab/3D-DCGAN/blob/main/Completion_pourcentage_EMD_metric.PNG" width=350 height=350 />
-
+<img src="https://github.com/yahyahamdi-lab/3D-DCGAN/blob/main/Completion_pourcentage_cd_metric.PNG" width=550 height=450 /> 
+<img src="https://github.com/yahyahamdi-lab/3D-DCGAN/blob/main/Completion_pourcentage_hd_metric.PNG" width=550 height=350 />
+<img src="https://github.com/yahyahamdi-lab/3D-DCGAN/blob/main/Completion_pourcentage_EMD_metric.PNG" width=550 height=350 />
+</p>
 # Tutorial
 ## Requirements
 - Python: Version 3.6 or higher
