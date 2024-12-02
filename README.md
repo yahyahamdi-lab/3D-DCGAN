@@ -11,12 +11,17 @@ We use:
 - Chairs and airplane from Shapenet dataset: https://github.com/yuchenrao/PatchComplete/tree/main?tab=readme-ov-file#download-processed-datasets.
 - Otolith dataset from [2].
 ## Results
+
+### Generation
+
+### Completion
 <p align="center">
 <img src="https://github.com/yahyahamdi-lab/3D-DCGAN/blob/main/Completion_pourcentage_cd_metric.PNG" width=550 height=450 /> 
 <img src="https://github.com/yahyahamdi-lab/3D-DCGAN/blob/main/Completion_pourcentage_hd_metric.PNG" width=550 height=450 />
 <img src="https://github.com/yahyahamdi-lab/3D-DCGAN/blob/main/Completion_pourcentage_EMD_metric.PNG" width=550 height=450 />
 </p>
 # Tutorial
+
 ## Requirements
 - Python: Version 3.6 or higher
 - PyTorch: Version 1.5 or higher (with CUDA support if a GPU is used).
