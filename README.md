@@ -43,7 +43,9 @@ We evaluate the effects of the percentage of removed points on the completion ac
 - python Train.py
   
 An example of training DCGAN model with Otolith dataset is presented in <a href="https://github.com/yahyahamdi-lab/3D-DCGAN/tree/main/plot"> plot</a> repository with different epochs.
-
+## Evaluate model
+- python Test.py
+  
 # References
 [1] A. Jolicoeur-Martineau, The relativistic discriminator: a key element missing from standard GAN, Machine Learning, arXiv:1807.00734v3, 2018.
 
