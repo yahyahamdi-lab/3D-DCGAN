@@ -21,7 +21,7 @@ Examples of Generated images using Otolith dataset:
 
 Example of Generated image using Otolith dataset:
 
-<p align="center"><img src="https://github.com/yahyahamdi-lab/3D-DCGAN/blob/main/Completed_images.PNG" width=420 height=270 /> </p>
+<p align="center"><img src="https://github.com/yahyahamdi-lab/3D-DCGAN/blob/main/Completed_images.PNG" width=400 height=260 /> </p>
 
 We evaluate the effects of the percentage of removed points on the completion accuracy of 3D objects (Otoliths, Chairs, and Airplanes) using three metrics such as: CD, HD, and EMD.
 
@@ -38,8 +38,11 @@ We evaluate the effects of the percentage of removed points on the completion ac
 - PyTorch: Version 1.5 or higher (with CUDA support if a GPU is used).
 ## Train model
 cd [place_to_clone_this_project]
+
 [git clone https://github.com/yahyahamdi-lab/3D-DCGAN.git]
+
 cd 3D-DCGAN
+
 python Train.py
 
 # References
