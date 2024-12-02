@@ -23,6 +23,8 @@ Example of Generated image using Otolith dataset:
 
 <p align="center"><img src="https://github.com/yahyahamdi-lab/3D-DCGAN/blob/main/Completed_images.PNG" width=450 height=300 /> </p>
 
+We evaluate the effects of the percentage of removed points on the completion accuracy of 3D objects (Otoliths, Chairs, and Airplanes) using three metrics such as: CD, HD, and EMD.
+
 <p align="center">
 <img src="https://github.com/yahyahamdi-lab/3D-DCGAN/blob/main/Completion_pourcentage_cd_metric.PNG" width=550 height=450 /> 
 <img src="https://github.com/yahyahamdi-lab/3D-DCGAN/blob/main/Completion_pourcentage_hd_metric.PNG" width=550 height=450 />
