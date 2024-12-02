@@ -51,3 +51,10 @@ python Train.py
 [2] N. Andrialovanirina, L. Poloni, R. Lafont, E. Poisson Caillault, S. Couette, K. Mahé. 3D meshes dataset of sagittal otoliths from red mullet in the Mediterranean Sea, Sci Data
 11, 813, 2024.
 
+[3] Zhang, J., X. Chen, Z. Cai, L. Pan, H. Zhao, S. Yi, C. K. Yeo, B. Dai, and C. C. Loy (2021). Unsupervised 3d shape completion through GAN inversion. In IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2021, virtual, June 19-25, 2021, pp. 1768–1777. Computer Vision Foundation / IEEE.
+
+[4] Chang, A. X., T. A. Funkhouser, L. J. Guibas, P. Hanrahan, Q.-X. Huang, Z. Li, S. Savarese, M. Savva, S. Song, H. Su, J. Xiao, L. Yi, and F. Yu (2015). Shapenet: An information-rich 3d model repository. ArXiv abs/1512.03012.
+
+[5] Wu, J., C. Zhang, T. Xue, B. Freeman, and J. Tenenbaum (2016). Learning a probabilistic latent space of object shapes via 3d generative-adversarial modeling. In D. D. Lee, M. Sugiyama,
+U. von Luxburg, I. Guyon, and R. Garnett (Eds.), Advances in Neural Information Processing Systems 29: Annual Conference on Neural Information Processing Systems 2016, December 5-10, 2016, Barcelona, Spain, pp. 82–90.
+
