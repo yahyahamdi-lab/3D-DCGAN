@@ -38,11 +38,8 @@ We evaluate the effects of the percentage of removed points on the completion ac
 - PyTorch: Version 1.5 or higher (with CUDA support if a GPU is used).
 ## Train model
 cd [place_to_clone_this_project]
-
 [git clone https://github.com/yahyahamdi-lab/3D-DCGAN.git]
-
 cd 3D-DCGAN
-
 python Train.py
 
 # References
