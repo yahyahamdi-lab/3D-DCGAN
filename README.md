@@ -14,10 +14,12 @@ We use:
 
 ### Generation
 Examples of Generated images using Otolith dataset:
+
 <img src="https://github.com/yahyahamdi-lab/3D-DCGAN/blob/main/Generated_images.PNG" width=450 height=400 /> 
 ### Completion
 Example of Generated image using Otolith dataset:
-<img src="https://github.com/yahyahamdi-lab/3D-DCGAN/blob/main/Completed_images.PNG" width=450 height=370 /> 
+
+<img src="https://github.com/yahyahamdi-lab/3D-DCGAN/blob/main/Completed_images.PNG" width=420 height=370 /> 
 
 <p align="center">
 <img src="https://github.com/yahyahamdi-lab/3D-DCGAN/blob/main/Completion_pourcentage_cd_metric.PNG" width=550 height=450 /> 
