@@ -21,7 +21,7 @@ Examples of Generated images using Otolith dataset:
 
 Example of Generated image using Otolith dataset:
 
-<p align="center"><img src="https://github.com/yahyahamdi-lab/3D-DCGAN/blob/main/Completed_images.PNG" width=440 height=80 /> </p>
+<p align="center"><img src="https://github.com/yahyahamdi-lab/3D-DCGAN/blob/main/Completed_images.PNG" width=420 height=270 /> </p>
 
 We evaluate the effects of the percentage of removed points on the completion accuracy of 3D objects (Otoliths, Chairs, and Airplanes) using three metrics such as: CD, HD, and EMD.
 
