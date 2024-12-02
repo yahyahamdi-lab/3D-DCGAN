@@ -19,7 +19,7 @@ Examples of Generated images using Otolith dataset:
 
 ### Completion
 
-Example of Generated image using Otolith dataset:
+Example of completed image using Otolith dataset:
 
 <p align="center"><img src="https://github.com/yahyahamdi-lab/3D-DCGAN/blob/main/Completed_images.PNG" width=360 height=240 /> </p>
 
