@@ -36,16 +36,16 @@ Example of completed image using Otolith dataset:
 ### Requirements
 - Python: Version 3.6 or higher
 - PyTorch: Version 1.5 or higher (with CUDA support if a GPU is used).
-## Train model
+### Train model
 - cd [place_to_clone_this_project]
 - [git clone https://github.com/yahyahamdi-lab/3D-DCGAN.git]
 - cd 3D-DCGAN
 - python Train.py
   
 An example of training DCGAN model with Otolith dataset is presented in <a href="https://github.com/yahyahamdi-lab/3D-DCGAN/tree/main/plot"> plot</a> repository with different epochs.
-## Evaluate model
+### Evaluate model
 - python Test.py
-## Note
+### Note
 This project is carried out in collaboration with <a href="https://github.com/emiliepoisson">Emilie Poisson</a>
 
 # References
