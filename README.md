@@ -1,6 +1,6 @@
 # 3D-DCGAN (Shape generation and completion)
 
-# Methods
+# Method
 This code implements deep 3D Generative Adversarial Network (GAN)-based convolutional layers that operate in voxel space and train to generate or complete 3D voxel-based objects. This work is inspired by the study in https://arxiv.org/abs/1807.00734 [1], with some modifications to the GAN architecture.
 ## Architecture
 
